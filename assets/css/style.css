@@ -6,8 +6,11 @@ body {
 }
 h1 {
     color:rgb(230, 5, 5);
-    border-bottom:rgb(230, 5, 5);
-    font-size:16px;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:16px;
+    border-style:solid;
     text-align:center;
     text-transform: uppercase;
 }
