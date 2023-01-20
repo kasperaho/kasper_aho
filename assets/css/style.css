@@ -23,6 +23,18 @@ a:visited{
 a:hover{
     color:rgb(21, 10, 235);
 }
+.main {
+    display:flex;
+}
+.sidebar {
+    display:flex;
+    min-width:100px;
+    min-height:100px;
+}
+.section {
+    display:flex;
+    flex-wrap:wrap;
+}
 img {
     border-style: solid;
     border-color:rgb(230, 5, 5);

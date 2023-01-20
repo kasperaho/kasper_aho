@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(85, 107, 48);
+    color:rgb(0, 0, 0);
+    font-size:16px;
+    font-family:'Times New Roman', Times, serif;
+}
+header {
+    color:rgb(0, 0, 0);
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:16px;
+    border-style:solid;
+    text-align:center;
+    text-transform: uppercase;
+}
+footer {
+    border-color:rgb(0, 0, 0);
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:70px;
+    border-style:solid;
+    text-align:center;
+}
+.column{
+
+}
